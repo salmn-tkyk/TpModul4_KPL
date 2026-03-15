@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 4\\Pendahuluan_Modul4\\TpModul4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAB326A7-10BF-4A0B-AD50-D8FC21421964}|TpModul4\\TpModul4.csproj|c:\\users\\asus\\onedrive\\documents\\tugas_kuliah_salman\\coding semerster 4\\konstruksi perangkat lunak\\praktikum\\praktikum minggu 4\\pendahuluan_modul4\\tpmodul4\\tpmodul4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAB326A7-10BF-4A0B-AD50-D8FC21421964}|TpModul4\\TpModul4.csproj|solutionrelative:tpmodul4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC7630BC-B85A-83F1-E59F-6364FDA1F3CF}|TpModul4\\TpModul4.csproj|c:\\users\\asus\\onedrive\\documents\\tugas_kuliah_salman\\coding semerster 4\\konstruksi perangkat lunak\\praktikum\\praktikum minggu 4\\pendahuluan_modul4\\tpmodul4\\tpmodul4\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7630BC-B85A-83F1-E59F-6364FDA1F3CF}|TpModul4\\TpModul4.csproj|solutionrelative:tpmodul4\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7630BC-B85A-83F1-E59F-6364FDA1F3CF}|TpModul4\\TpModul4.csproj|c:\\users\\asus\\onedrive\\documents\\tugas_kuliah_salman\\coding semerster 4\\konstruksi perangkat lunak\\praktikum\\praktikum minggu 4\\pendahuluan_modul4\\tpmodul4\\tpmodul4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7630BC-B85A-83F1-E59F-6364FDA1F3CF}|TpModul4\\TpModul4.csproj|solutionrelative:tpmodul4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 4\\Pendahuluan_Modul4\\TpModul4\\TpModul4\\KodePos.cs",
+              "RelativeDocumentMoniker": "TpModul4\\KodePos.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 4\\Pendahuluan_Modul4\\TpModul4\\TpModul4\\KodePos.cs",
+              "RelativeToolTip": "TpModul4\\KodePos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:33:06.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 4\\Pendahuluan_Modul4\\TpModul4\\TpModul4\\Program.cs",
               "RelativeDocumentMoniker": "TpModul4\\Program.cs",
               "ToolTip": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 4\\Pendahuluan_Modul4\\TpModul4\\TpModul4\\Program.cs",
               "RelativeToolTip": "TpModul4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T15:23:40.277Z",
               "EditorCaption": ""
